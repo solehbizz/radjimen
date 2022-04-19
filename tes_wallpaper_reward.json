@@ -1,0 +1,128 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_reward":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_reward":"",
+      "native_for_admob_applovin":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "coin_reward": 1000
+    }
+  ],
+  "More":
+  [
+    {
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "name_category": "River",
+      "image": "https://images.pexels.com/photos/2217365/pexels-photo-2217365.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+
+    },
+    {
+      "name_category": "Mountain",
+      "image": "https://images.pexels.com/photos/4215113/pexels-photo-4215113.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+
+    },
+    {
+      "name_category": "Beach",
+      "image": "file:///android_asset/image/beach.jpeg"
+
+    },
+    {
+      "name_category": "Waterfall",
+      "image": "https://images.pexels.com/photos/2743287/pexels-photo-2743287.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "River",
+      "title":"Riverand Pine",
+      "image":"https://images.pexels.com/photos/2217365/pexels-photo-2217365.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "coin":150
+    },
+    {
+      "id": 2,
+      "name_category": "River",
+      "title": "Water Near Mountains",
+      "image": "https://images.pexels.com/photos/1192662/pexels-photo-1192662.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "coin":300
+    },
+    {
+      "id":3,
+      "name_category": "River",
+      "title":"Snow Covered",
+      "image":"https://images.pexels.com/photos/816036/pexels-photo-816036.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "coin":0
+    },
+    {
+      "id":4,
+      "name_category": "Mountain",
+      "title":"Green Grass",
+      "image":"https://images.pexels.com/photos/4215113/pexels-photo-4215113.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "coin":0
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "Mountain",
+      "title":"Empty Highway",
+      "image":"https://images.pexels.com/photos/1955134/pexels-photo-1955134.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "coin":200
+    },
+    {
+      "id":6,
+      "name_category": "Beach",
+      "title":"Aerial",
+      "image":"file:///android_asset/image/beach.jpeg",
+      "coin":100
+    },
+    {
+      "id":7,
+      "name_category": "Beach",
+      "title":"Palm Trees",
+      "image":"file:///android_asset/image/palm.jpeg",
+      "coin":100
+    },
+    {
+      "id":8,
+      "name_category": "Waterfall",
+      "title":"Waterfalls Rain",
+      "image":"https://images.pexels.com/photos/1620372/pexels-photo-1620372.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "coin":100
+    }
+  ]
+}
