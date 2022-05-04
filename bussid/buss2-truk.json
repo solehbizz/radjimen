@@ -2,14 +2,14 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_banner": "ca-app-pub-5436395797043027/1497796805",
+      "main_ads_intertitial":"ca-app-pub-5436395797043027/2292003726",
+      "main_native_for_admob_applovin":"ca-app-pub-5436395797043027/6201503110",
       "backup_native_for_admob_applovin":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "interval_intertitial": 10,
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -24,35 +24,35 @@
  "DATA":
   [
     {
-      "title":"Harapan Jaya",
-      "image":"file:///android_asset/bus.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+      "title":"Madura Asyik Canter Terpal",
+      "image":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Mod%20Bussid%20Truck%20Madura%20Asyik%20Canter%20Terpal/maduraasyik.jpg",
+      "link_mods":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Mod%20Bussid%20Truck%20Madura%20Asyik%20Canter%20Terpal/truk-madura-asik-imeandroid.bussidmod",
+      "link_livery":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Mod%20Bussid%20Truck%20Madura%20Asyik%20Canter%20Terpal/truk-madura-asik-imeandroid.png"
     },
     {
-      "title":"Livery Zentrum JB2 SHD",
-      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
-      "link_livery":""
+      "title":"Truck Souleh Art",
+      "image":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Mod%20Truck%20Souleh%20Art%20Terpal%20Segitiga%20Bussid/Mod-Truck-Souleh-Art-Terpal-Segitiga.jpg",
+      "link_mods":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Mod%20Truck%20Souleh%20Art%20Terpal%20Segitiga%20Bussid/truk-terpal-segi-tigaimeandroid-%20Pindang%20by-SA.bussidmod",
+      "link_livery":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Mod%20Truck%20Souleh%20Art%20Terpal%20Segitiga%20Bussid/truk-terpal-segi-tigaimeandroid-%20Pindang%20by-SA-%20LIVERY%20RAJA%20INSUN%20BUDESIGN.png"
     },
     {
-      "title":"Bus Telolet",
-      "image":"file:///android_asset/bus3.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":""
+      "title":"Truck Canter Fuso",
+      "image":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Canter%20Fuso%20Terpal%20Segitiga/Truck-Canter-Fuso-Terpal-Segitiga.jpg",
+      "link_mods":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Canter%20Fuso%20Terpal%20Segitiga/Truck%20Canter%20Fuso%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Canter%20Fuso%20Terpal%20Segitiga/Truck%20Canter%20Fuso%20Terpal%20Segitiga%20LIVERY%20FIX%20KHANZA%20BUDESIGN.png"
     }
   ,
     {
-      "title":"Truck UD Quester Bak Muat Kayu",
-      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
+      "title":"Canter Jovanca Full Anim",
+      "image":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Canter%20Jovanca%20Full%20Anim/Truck-Canter-Jovanca-Full-Anim.jpg",
+      "link_mods":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Canter%20Jovanca%20Full%20Anim/NMR71.bussidmod",
+      "link_livery":""
     } ,
     {
-      "title":"Jaguar XE SV Project 8",
-      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":""
+      "title":"Sekar Taro Putih",
+      "image":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Sekar%20Taro%20Putih%20Terpal%20Segitiga%20Bussid/Truck-Sekar-Taro-Putih-Terpal-Segitiga-Bussid.jpg",
+      "link_mods":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Sekar%20Taro%20Putih%20Terpal%20Segitiga%20Bussid/NMR%20no%20terpal.bussidmod",
+      "link_livery":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Sekar%20Taro%20Putih%20Terpal%20Segitiga%20Bussid/SEKAR%20TARO%20BY%20KH04.png"
     }
   ]
 }
