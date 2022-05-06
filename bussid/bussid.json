@@ -24,9 +24,9 @@
  "DATA":
   [
     {
-      "title":"Harapan Jaya",
+      "title":"SR2 HD Transporter S-Series - KYM",
       "image":"file:///android_asset/bus.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_mods":"",
       "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
     },
     {
@@ -49,9 +49,9 @@
       "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
     } ,
     {
-      "title":"Jaguar XE SV Project 8",
-      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "title":"",
+      "image":"",
+      "link_mods":"",
       "link_livery":""
     }
   ]
