@@ -1,15 +1,15 @@
  { "Ads": [
     {
-      "select_main_ads": "",
-      "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5436395797043027/5982011264",
+      "main_ads_intertitial":"ca-app-pub-5436395797043027/6906449810",
+      "main_native_for_admob_applovin":" ca-app-pub-5436395797043027/1659622875",
       "backup_native_for_admob_applovin":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "interval_intertitial": 10,
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -24,35 +24,29 @@
  "DATA":
   [
     {
-      "title":"SR2 HD Transporter S-Series - KYM",
-      "image":"file:///android_asset/bus.jpeg",
-      "link_mods":"",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
-    },
-    {
-      "title":"Livery Zentrum JB2 SHD",
-      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
+      "title":"KTM Duke 150",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20KTM%20DUKE%20150%20by%20AzuMods.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20KTM%20DUKE%20150%20by%20AzuMods.bussidmod",
       "link_livery":""
     },
     {
-      "title":"Bus Telolet",
-      "image":"file:///android_asset/bus3.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "title":"Ninja H2R",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20MOTOR%20%20NINJA%20H2R.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20MOTOR%20%20NINJA%20H2R.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Kawasaki KLX",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Kawasaki%20KLX%20by%20MAH%20Channel.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Kawasaki%20KLX%20by%20MAH%20Channel.bussidmod",
       "link_livery":""
     }
   ,
     {
-      "title":"Truck UD Quester Bak Muat Kayu",
-      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
-    } ,
-    {
-      "title":"",
-      "image":"",
-      "link_mods":"",
+      "title":"Hayabusa 1300cc",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20HAYABUSA%201300CC%20BUSSID%20FREE%20BY%20AZUMODS.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20HAYABUSA%201300CC%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
       "link_livery":""
-    }
+    } 
   ]
 }
