@@ -5,10 +5,10 @@
       "main_ads_banner": "ca-app-pub-5436395797043027/5982011264",
       "main_ads_intertitial":"ca-app-pub-5436395797043027/6906449810",
       "main_native_for_admob_applovin":" ca-app-pub-5436395797043027/1659622875",
-      "backup_native_for_admob_applovin":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 10,
+      "backup_native_for_admob_applovin":"3a250912568ec576",
+      "backup_ads_banner":"0d247f19bf240d70",
+      "backup_ads_intertitial":"2ecdc4ec361829d5",
+      "interval_intertitial": 2,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -47,6 +47,156 @@
       "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20HAYABUSA%201300CC%20BUSSID%20FREE%20BY%20AZUMODS.jpeg",
       "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20HAYABUSA%201300CC%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
       "link_livery":""
-    } 
+    } ,
+    {
+      "title":"Honda Beat",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/3%20Mod%20Honda%20Beat%20by%20Azumods.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/3%20Mod%20Honda%20Beat%20by%20Azumods.bussidvehicle",
+      "link_livery":""
+    } ,
+    {
+      "title":"Harley Davidson",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Harley%20Davidson%20by%20AzuMods.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Harley%20Davidson%20by%20AzuMods.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Honda PCX 150cc Thailook",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Honda%20PCX%20150cc%20Thailook%20Style%20by%20MAH%20Channel.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Honda%20PCX%20150cc%20Thailook%20Style%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Ninja ZX-6R",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Kawasaki%20Ninja%20ZX-6R%20V1%20Velg%20Standar%20by%20AzuMods.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Kawasaki%20Ninja%20ZX-6R%20V1%20Velg%20Standar%20by%20AzuMods.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Harley-Davidson FLHXS",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20BUSSID%20Motor%20Harley-Davidson%20FLHXS%20by%20MAH%20Channel.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20BUSSID%20Motor%20Harley-Davidson%20FLHXS%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Motor Honda CBR 300R",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20BUSSID%20Motor%20Honda%20CBR%20300R%20by%20MAH%20Channel.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20BUSSID%20Motor%20Honda%20CBR%20300R%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"CBR 150R KNALPOT RACING",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20CBR%20150R%20KNALPOT%20RACING%20BY%20AZUMODS.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20CBR%20150R%20KNALPOT%20RACING%20BY%20AZUMODS.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"GOJEK MOTOR BEAT",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20GOJEK%20MOTOR%20BEAT%20BUSSID%20FREE%20BY%20AZUMODS.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20GOJEK%20MOTOR%20BEAT%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"GOJEK MOTOR R15 V3",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20GOJEK%20MOTOR%20R15%20V3%20BUSSID%20FREE%20BY%20AZUMODS.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20GOJEK%20MOTOR%20R15%20V3%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"GOJEK NMAX 155cc",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20GOJEK%20NMAX%20155cc%20BUSSID%20FREE%20BY%20AZUMODS%20%281%29.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20GOJEK%20NMAX%20155cc%20BUSSID%20FREE%20BY%20AZUMODS%20%281%29.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"GOJEK SUPRA BUSSID",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20GOJEK%20SUPRA%20BUSSID%20FREE%20BY%20AZUMODS.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20GOJEK%20SUPRA%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"JUPITER Z1",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20JUPITER%20Z1%20BURHAN%20BUSSID%20FREE%20BY%20AZUMODS.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20JUPITER%20Z1%20BURHAN%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"MIO DRAG 200CC",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20MIO%20DRAG%20200CC%20BUSSID%20BY%20AZUMODS.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20MIO%20DRAG%20200CC%20BUSSID%20BY%20AZUMODS.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"NINJA H2R",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20MOTOR%20%20NINJA%20H2R.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20MOTOR%20%20NINJA%20H2R.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Vario",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20MOTOR%20%20vario%20%282%29.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20MOTOR%20%20vario%20%282%29.bussidvehicle",
+      "link_livery":""
+    } ,
+    {
+      "title":"MOTOR GEROBAK BAKSO",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20MOTOR%20GEROBAK%20BAKSO.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20MOTOR%20GEROBAK%20BAKSO.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"NINJA 150 RR DRAG",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20NINJA%20150%20RR%20DRAG%20BUSSID%20FREE%20BY%20AZUMODS.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20NINJA%20150%20RR%20DRAG%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"SATRIA FU",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20SATRIA%20FU%20BUSSID%20FREE%20BY%20AZUMODS.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20SATRIA%20FU%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"SUPRA X By BassamAzuper",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20SUPRA%20X%20By%20BassamAzuper%20AzuMods.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20SUPRA%20X%20By%20BassamAzuper%20AzuMods.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Beat Racing",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD-BUSSID_HONDA_BEAT_RACING_BY_AZUMODS_BASSAMAZUPER.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD-BUSSID_HONDA_BEAT_RACING_BY_AZUMODS_BASSAMAZUPER.bussidvehicle",
+      "link_livery":""
+    } ,
+    {
+      "title":"GOJEK Honda CRF",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Mod%20GOJEK%20Honda%20CRF%20BUSSID%20FREE%20BY%20AZUMODS.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Mod%20GOJEK%20Honda%20CRF%20BUSSID%20FREE%20BY%20AZUMODS.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Mio Drag",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Mod%20Mio%20Drag%20By%20Azumods.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Mod%20Mio%20Drag%20By%20Azumods.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Motor Viar",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Mod%20Motor%20Viar%20By%20AzuMods.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Mod%20Motor%20Viar%20By%20AzuMods.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Yamaha YZF R6",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Mod%20Yamaha%20YZF%20R6%20By%20AzuMods.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Mod%20Yamaha%20YZF%20R6%20By%20AzuMods.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"RX King",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/RXKing-mod-bussid_imeandroid_cvt_by_Totti_v1.3.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/RXKing-mod-bussid_imeandroid_cvt_by_Totti_v1.3.bussidmod",
+      "link_livery":""
+    }
   ]
 }
