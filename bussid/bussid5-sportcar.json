@@ -1,0 +1,106 @@
+ { "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_native_for_admob_applovin":"",
+      "backup_native_for_admob_applovin":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 20,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+    {
+      "title":"Bugatti Chiron",
+      "image":"https://archive.org/download/buss4mobil-pack1/Bugatti%20Chiron%20By%20Azumods.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Bugatti%20Chiron%20By%20Azumods.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"LAMBORGHINI AVENTADOR",
+      "image":"https://archive.org/download/buss4mobil-pack1/LAMBORGHINI%20AVENTADOR%20SHARE%20BY%20JODS%20TV.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/LAMBORGHINI%20AVENTADOR%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"LAMBORGHINI HURACAN",
+      "image":"https://archive.org/download/buss4mobil-pack1/LAMBORGHINI%20HURACAN.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/LAMBORGHINI%20HURACAN.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Centenario Cvt",
+      "image":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Centenario%20Cvt%20By%20EAP.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Centenario%20Cvt%20By%20EAP%20.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Huracan LP 610-4",
+      "image":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Huracan%20LP%20610-4.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Huracan%20LP%20610-4%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Huracan STO Mod",
+      "image":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Huracan%20STO%20Mod.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Huracan%20STO%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Reventon",
+      "image":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Reventon%20Mod.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Huracan%20STO%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Sian Hyper Car",
+      "image":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Sian%20Hyper%20Car.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Sian%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Terzo Millennio Bussid",
+      "image":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Terzo%20Millennio%20Bussid.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Terzo%20Millennio%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Veneno Cvt",
+      "image":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Veneno%20Cvt%20By%20EAP.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Veneno%20Cvt%20By%20EAP.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Mazda RX-7 hitam",
+      "image":"https://archive.org/download/buss4mobil-pack1/Mazda%20RX-7%20hitam.png",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Mazda%20RX-7%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Mazda RX-7 merah",
+      "image":"https://archive.org/download/buss4mobil-pack1/Mazda%20RX-7%20merah.png",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Mazda%20RX-7%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini",
+      "image":"https://archive.org/download/buss4mobil-pack1/Mod%20BUSSID%20Lamborghini.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Mod%20BUSSID%20Lamborghini.bussidvehicle",
+      "link_livery":""
+    }
+	
+  ]
+}
