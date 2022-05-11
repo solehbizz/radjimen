@@ -24,21 +24,21 @@
  "DATA":
   [
     {
-      "title":"SR2 HD Transporter S-Series - KYM",
-      "image":"file:///android_asset/bus.jpeg",
-      "link_mods":"",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
-    },
-    {
-      "title":"Livery Zentrum JB2 SHD",
-      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
+      "title":"Bugatti Chiron",
+      "image":"https://archive.org/download/buss4mobil-pack1/Bugatti%20Chiron%20By%20Azumods.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Bugatti%20Chiron%20By%20Azumods.bussidmod",
       "link_livery":""
     },
     {
-      "title":"Bus Telolet",
-      "image":"file:///android_asset/bus3.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "title":"Daihatsu Terios lama",
+      "image":"https://archive.org/download/buss4mobil-pack1/Daihatsu%20Terios%20lama.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Daihatsu%20Terios%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"LAMBORGHINI AVENTADOR",
+      "image":"https://archive.org/download/buss4mobil-pack1/LAMBORGHINI%20AVENTADOR%20SHARE%20BY%20JODS%20TV.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/LAMBORGHINI%20AVENTADOR%20SHARE%20BY%20JODS%20TV.bussidmod",
       "link_livery":""
     }
 
