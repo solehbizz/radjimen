@@ -2,14 +2,14 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
-      "backup_native_for_admob_applovin":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 1,
-      "initialize_sdk":"107355779",
+      "main_ads_banner": "ca-app-pub-5436395797043027/4313706374",
+      "main_ads_intertitial":" ca-app-pub-5436395797043027/9182889674",
+      "main_native_for_admob_applovin":"ca-app-pub-5436395797043027/8943803251",
+      "backup_native_for_admob_applovin":"f6b72d70169c3c21",
+      "backup_ads_banner":"d0cc5132bf588f5f",
+      "backup_ads_intertitial":"15b5f54f5b7735a9",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -102,11 +102,11 @@
       "link_livery":""
     },
     {
-      "title":"",
-      "image":"",
-      "link_mods":"",
+      "title":"Lamborghini",
+      "image":"https://archive.org/download/buss4mobil-pack1/Mod%20BUSSID%20Lamborghini.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Mod%20BUSSID%20Lamborghini.bussidvehicle",
       "link_livery":""
     }
-
+	
   ]
 }
