@@ -2,13 +2,13 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_banner": "ca-app-pub-5436395797043027/7624467245",
+      "main_ads_intertitial":"ca-app-pub-5436395797043027/4150172387",
+      "main_native_for_admob_applovin":"ca-app-pub-5436395797043027/7897845703",
       "backup_native_for_admob_applovin":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
+      "interval_intertitial": 2,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -37,9 +37,9 @@
     },
     {
       "title":"Bugatti Chiron",
-      "image":"https://archive.org/download/buss4mobil-pack1/Bugatti%20Chiron%20By%20Azumods.jpg",
-      "link_mods":"https://archive.org/download/buss4mobil-pack1/Bugatti%20Chiron%20By%20Azumods.bussidmod",
-      "link_livery":""
+      "image":"https://archive.org/download/damkar_202205/ss%20hydramax.jpeg",
+      "link_mods":"https://archive.org/download/damkar_202205/Hydramax%20AERV%20MAH%20Channel.bussidmod",
+      "link_livery":"https://archive.org/download/damkar_202205/Fire%20Rescue%20Hydramax%20Merah.png"
     },
     {
       "title":"LAMBORGHINI AVENTADOR",
