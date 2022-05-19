@@ -1,0 +1,334 @@
+ { "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+      "backup_native_for_admob_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+"DATA":
+  [
+      {
+      "title":"Madura Asyik Canter Terpal",
+      "image":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Mod%20Bussid%20Truck%20Madura%20Asyik%20Canter%20Terpal/maduraasyik.jpg",
+      "link_mods":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Mod%20Bussid%20Truck%20Madura%20Asyik%20Canter%20Terpal/truk-madura-asik-imeandroid.bussidmod",
+      "link_livery":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Mod%20Bussid%20Truck%20Madura%20Asyik%20Canter%20Terpal/truk-madura-asik-imeandroid.png"
+    },
+    {
+      "title":"Truck Souleh Art",
+      "image":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Mod%20Truck%20Souleh%20Art%20Terpal%20Segitiga%20Bussid/Mod-Truck-Souleh-Art-Terpal-Segitiga.jpg",
+      "link_mods":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Mod%20Truck%20Souleh%20Art%20Terpal%20Segitiga%20Bussid/truk-terpal-segi-tigaimeandroid-%20Pindang%20by-SA.bussidmod",
+      "link_livery":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Mod%20Truck%20Souleh%20Art%20Terpal%20Segitiga%20Bussid/truk-terpal-segi-tigaimeandroid-%20Pindang%20by-SA-%20LIVERY%20RAJA%20INSUN%20BUDESIGN.png"
+    },
+    {
+      "title":"Truck Canter Fuso",
+      "image":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Canter%20Fuso%20Terpal%20Segitiga/Truck-Canter-Fuso-Terpal-Segitiga.jpg",
+      "link_mods":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Canter%20Fuso%20Terpal%20Segitiga/Truck%20Canter%20Fuso%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Canter%20Fuso%20Terpal%20Segitiga/Truck%20Canter%20Fuso%20Terpal%20Segitiga%20LIVERY%20FIX%20KHANZA%20BUDESIGN.png"
+    }
+  ,
+    {
+      "title":"Canter Jovanca Full Anim",
+      "image":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Canter%20Jovanca%20Full%20Anim/Truck-Canter-Jovanca-Full-Anim.jpg",
+      "link_mods":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Canter%20Jovanca%20Full%20Anim/NMR71.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Sekar Taro Putih",
+      "image":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Sekar%20Taro%20Putih%20Terpal%20Segitiga%20Bussid/Truck-Sekar-Taro-Putih-Terpal-Segitiga-Bussid.jpg",
+      "link_mods":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Sekar%20Taro%20Putih%20Terpal%20Segitiga%20Bussid/NMR%20no%20terpal.bussidmod",
+      "link_livery":"https://archive.org/download/truk-terpal-segi-tigaimeandroid-pindang-by-sa/Truck%20Sekar%20Taro%20Putih%20Terpal%20Segitiga%20Bussid/SEKAR%20TARO%20BY%20KH04.png"
+    },
+    {
+      "title":"NMR 71Full Strobo",
+      "image":"https://archive.org/download/canter-muatan-sawit/truck-Canter-NMR-71-Mbois-Full-Strobo-Bussid-terbaru.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/truck-Canter-NMR-71-Mbois-Full-Strobo-Bussid-terbaru.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Oppa Muda",
+      "image":"https://archive.org/download/canter-muatan-sawit/truck-canter-oppa-muda.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/truck-canter-oppa-muda.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/truck-canter-oppa-muda.png"
+    },
+    {
+      "title":"Canter Muatan Semen Full Anim",
+      "image":"https://archive.org/download/canter-muatan-sawit/Canter%20Bangunan%20Muatan%20Semen%20Full%20Anim.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Canter%20Bangunan%20Muatan%20Semen%20Full%20Anim.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Canter Kalimantan Full Anim",
+      "image":"https://archive.org/download/canter-muatan-sawit/Canter%20Kalimantan%20Full%20Anim.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Canter%20Kalimantan%20Full%20Anim.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Canter%20Kalimantan%20Full%20Anim.png"
+    } ,
+    {
+      "title":"Canter Muatan Sawit",
+      "image":"https://archive.org/download/canter-muatan-sawit/Canter%20Muatan%20Sawit.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Canter%20Muatan%20Sawit.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Canter%20Muatan%20Sawit.png"
+    } ,
+    {
+      "title":"Canter New Calista",
+      "image":"https://archive.org/download/canter-muatan-sawit/Canter%20New%20Calista.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Canter%20New%20Calista.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Canter%20New%20Calista.png"
+    } ,
+    {
+      "title":"Canter Wahyu Abadi Terpal Segitiga",
+      "image":"https://archive.org/download/canter-muatan-sawit/Canter%20Wahyu%20Abadi%20Terpal%20Segitiga.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Canter%20Wahyu%20Abadi%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Canter%20Wahyu%20Abadi%20Terpal%20Segitiga.png"
+    } ,
+    {
+      "title":"Isuzu NMR71 New SRX Full Anim",
+      "image":"https://archive.org/download/canter-muatan-sawit/Isuzu%20NMR71%20New%20SRX%20Full%20Anim.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Isuzu%20NMR71%20New%20SRX%20Full%20Anim.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Isuzu%20NMR71%20New%20SRX%20Full%20Anim.png"
+    } ,
+    {
+      "title":"Mahartya Putri",
+      "image":"https://archive.org/download/canter-muatan-sawit/Mahartya%20Putri.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Mahartya%20Putri.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Mahartya%20Putri.png"
+    } ,
+    {
+      "title":"Truck Box Indah Cargo Logistic Full Anim",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Box%20Indah%20Cargo%20Logistic%20Full%20Anim.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Box%20Indah%20Cargo%20Logistic%20Full%20Anim.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Truck%20Box%20Indah%20Cargo%20Logistic%20Full%20Anim.png"
+    } ,
+    {
+      "title":"Truck Canter Bemper Avante",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Bemper%20Avante.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Bemper%20Avante.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Truck Canter Box Long Chasis",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Box%20Long%20Chasis.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Box%20Long%20Chasis.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Box%20Long%20Chasis.png"
+    } ,
+    {
+      "title":"Truck Canter Budak Rawit",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Budak%20Rawit.jpeg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Budak%20Rawit.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Budak%20Rawit.png"
+    } ,
+    {
+      "title":"Truck Canter HDL Full Anim",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20HDL%20Full%20Anim.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20HDL%20Full%20Anim.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Truck Canter NMR71 Mbois Full Anim",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20NMR71%20Mbois%20Full%20Anim.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20NMR71%20Mbois%20Full%20Anim.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Truck Canter Oppa Muda",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Oppa%20Muda.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Oppa%20Muda.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Oppa%20Muda.png"
+    } ,
+    {
+      "title":"Truck Canter Standard Minimalis",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Standard%20Minimalis.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Standard%20Minimalis.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Standard%20Minimalis.png"
+    } ,
+    {
+      "title":"Truck Canter Sweet Angel Terpal Segitiga Full Anim",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Sweet%20Angel%20Terpal%20Segitiga%20Full%20Anim.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Sweet%20Angel%20Terpal%20Segitiga%20Full%20AnimV.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Truck Canter Terpal Segitiga",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Terpal%20Segitiga.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Terpal%20Segitiga.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Truck Canter Tronton",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Tronton.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Tronton.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Tronton.png"
+    } ,
+    {
+      "title":"Truck Canter Wahyu Abadi",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Wahyu%20Abadi.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Wahyu%20Abadi.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Truck%20Canter%20Wahyu%20Abadi.png"
+    } ,
+    {
+      "title":"Truck Dump Muatan Sawit",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Dump%20Muatan%20Sawit.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Dump%20Muatan%20Sawit.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Truck Ragasa Muatan Tebu",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Ragasa%20Muatan%20Tebu.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Ragasa%20Muatan%20Tebu.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Truck%20Ragasa%20Muatan%20Tebu.png"
+    } ,
+    {
+      "title":"Truck Rebecca On Fire HM Cabe",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Rebecca%20On%20Fire%20HM%20Cabe.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Rebecca%20On%20Fire%20HM%20Cabe.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Truck%20Rebecca%20On%20Fire%20HM%20Cabe.png"
+    } ,
+    {
+      "title":"Truck Rollis Terpal Gayor",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Rollis%20Terpal%20Gayor.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Rollis%20Terpal%20Gayor.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Truck Sekar Taro Putih Terpal",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truck%20Sekar%20Taro%20Putih%20Terpal.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truck%20Sekar%20Taro%20Putih%20Terpal.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Truck%20Sekar%20Taro%20Putih%20Terpal_2.png"
+    } ,
+    {
+      "title":"Truk Canter New",
+      "image":"https://archive.org/download/canter-muatan-sawit/Truk%20Canter%20New.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/Truk%20Canter%20New.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/Truk%20Canter%20New.png"
+    } ,
+    {
+      "title":"truck canter 2",
+      "image":"https://archive.org/download/canter-muatan-sawit/truck%20canter%202.jpg",
+      "link_mods":"https://archive.org/download/canter-muatan-sawit/truck%20canter%202.bussidmod",
+      "link_livery":"https://archive.org/download/canter-muatan-sawit/truck%20canter%202.png"
+    } ,
+     {
+      "title":"APV Ambulance",
+      "image":"https://archive.org/download/ambulance_20220518/APV%20AMBULANCE%20BY%20DSP.jpg",
+      "link_mods":"https://archive.org/download/ambulance_20220518/APV%20AMBULANCE%20BY%20DSP.bussidmod",
+      "link_livery":"https://archive.org/download/ambulance_20220518/APV%20AMBULANCE%20BY%20DSP%20livery.png"
+    },
+    {
+      "title":"Ambulance GTA",
+      "image":"https://archive.org/download/ambulance_20220518/Ambulance%20By%20Azu%20Mods.jpg",
+      "link_mods":"https://archive.org/download/ambulance_20220518/Ambulance%20By%20Azu%20Mods.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Carry Ambulance",
+      "image":"https://archive.org/download/ambulance_20220518/carry%20ambulace.png",
+      "link_mods":"https://archive.org/download/ambulance_20220518/carry%20ambulace.bussidmod",
+      "link_livery":""
+    },
+       {
+      "title":"Damkar Hydramax",
+      "image":"https://1.bp.blogspot.com/-MKaR6gT2j6I/YTxKKaZMSxI/AAAAAAAAAKU/oLmLJJEODsMORvBv9rTvH--tAWIM0M_6QCLcBGAsYHQ/s758/babs%2Bthumb%2B1.jpg",
+      "link_mods":"https://archive.org/download/buss-monstertruck-pack1/BABS%20MONSTER%20TRUCK%20BY%20KL%20GARAGE.bussidmod",
+      "link_livery":""
+    },
+     {
+      "title":"BABS MONSTER TRUCK",
+      "image":"https://1.bp.blogspot.com/-MKaR6gT2j6I/YTxKKaZMSxI/AAAAAAAAAKU/oLmLJJEODsMORvBv9rTvH--tAWIM0M_6QCLcBGAsYHQ/s758/babs%2Bthumb%2B1.jpg",
+      "link_mods":"https://archive.org/download/buss-monstertruck-pack1/BABS%20MONSTER%20TRUCK%20BY%20KL%20GARAGE.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Bugatti Chiron",
+      "image":"https://archive.org/download/buss4mobil-pack1/Bugatti%20Chiron%20By%20Azumods.jpg",
+      "link_mods":"https://archive.org/download/damkar_202205/Hydramax%20AERV%20MAH%20Channel.bussidmod",
+      "link_livery":"https://archive.org/download/damkar_202205/Fire%20Rescue%20Hydramax%20Merah.png"
+    },
+    {
+      "title":"LAMBORGHINI AVENTADOR",
+      "image":"https://archive.org/download/buss4mobil-pack1/LAMBORGHINI%20AVENTADOR%20SHARE%20BY%20JODS%20TV.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/LAMBORGHINI%20AVENTADOR%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"LAMBORGHINI HURACAN",
+      "image":"https://archive.org/download/buss4mobil-pack1/LAMBORGHINI%20HURACAN.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/LAMBORGHINI%20HURACAN.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Centenario Cvt",
+      "image":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Centenario%20Cvt%20By%20EAP.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Centenario%20Cvt%20By%20EAP%20.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Huracan LP 610-4",
+      "image":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Huracan%20LP%20610-4.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Huracan%20LP%20610-4%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Huracan STO Mod",
+      "image":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Huracan%20STO%20Mod.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Huracan%20STO%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Reventon",
+      "image":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Reventon%20Mod.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Huracan%20STO%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Sian Hyper Car",
+      "image":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Sian%20Hyper%20Car.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Sian%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Terzo Millennio Bussid",
+      "image":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Terzo%20Millennio%20Bussid.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Terzo%20Millennio%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini Veneno Cvt",
+      "image":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Veneno%20Cvt%20By%20EAP.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Lamborghini%20Veneno%20Cvt%20By%20EAP.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Mazda RX-7 hitam",
+      "image":"https://archive.org/download/buss4mobil-pack1/Mazda%20RX-7%20hitam.png",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Mazda%20RX-7%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Mazda RX-7 merah",
+      "image":"https://archive.org/download/buss4mobil-pack1/Mazda%20RX-7%20merah.png",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Mazda%20RX-7%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Lamborghini",
+      "image":"https://archive.org/download/buss4mobil-pack1/Mod%20BUSSID%20Lamborghini.jpg",
+      "link_mods":"https://archive.org/download/buss4mobil-pack1/Mod%20BUSSID%20Lamborghini.bussidvehicle",
+      "link_livery":""
+    }
+  ]
+}
