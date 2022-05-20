@@ -23,7 +23,7 @@
   ],
  "DATA":
   [
-  
+  	    
 	{
       "title":"Canter Anti Gosip",
       "image":"https://archive.org/download/fuso-c-31/Canter%20Anti%20Gosip/ss.jpg",
@@ -179,37 +179,35 @@
       "image":"https://archive.org/download/fuso-c-31/Hino%20500%20Trailer%20CPO/Tangki%20Biru%20Strip%20Hijau.jpg",
       "link_mods":"https://archive.org/download/fuso-c-31/Hino%20500%20Trailer%20CPO/Hino%20CPO%20Bar%20Lampu.bussidmod",
       "link_livery":"https://archive.org/download/fuso-c-31/Hino%20500%20Trailer%20CPO/Tangki%20Biru%20Hino%20Trailer%20CPO.png"
+    } ,	
+	{
+      "title":"Hino C43 Spady",
+      "image":"https://archive.org/download/fuso-c-31/Hino%20C43%20Spady/ss.jpg",
+      "link_mods":"https://archive.org/download/fuso-c-31/Hino%20C43%20Spady/Hino%20C43%20Spady%20SBN.bussidmod",
+      "link_livery":"https://archive.org/download/fuso-c-31/Hino%20C43%20Spady/Aura%20Kasih%20Hino%20C43%20SBN.png"
+    }    ,
+	{
+      "title":"Mercy Axor Bak Sumatra",
+      "image":"https://archive.org/download/fuso-c-31/Mercy%20Axor%20Bak%20Sumatra%20Engkel/ss.jpg",
+      "link_mods":"https://archive.org/download/fuso-c-31/Mercy%20Axor%20Bak%20Sumatra%20Engkel/Discovery%201%20Rindray.bussidmod",
+      "link_livery":"https://archive.org/download/fuso-c-31/Mercy%20Axor%20Bak%20Sumatra%20Engkel/Putih-Merah%20Axor%20Engkel%20SBN.png"
     } ,
-    {
-      "title":"Harapan Jaya",
-      "image":"file:///android_asset/bus.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
-    },
-    {
-      "title":"Livery Zentrum JB2 SHD",
-      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
+	{
+      "title":"Scania 112H Angkut Kendaraan",
+      "image":"https://archive.org/download/fuso-c-31/Scania%20112H%20Angkut%20Kendaraan/ss.webp",
+      "link_mods":"https://archive.org/download/fuso-c-31/Scania%20112H%20Angkut%20Kendaraan/Scania%20112H%20Angkut%20Truk%20dan%20Angkot%20by%20wei%20chun.bussidmod",
       "link_livery":""
-    },
-    {
-      "title":"Bus Telolet",
-      "image":"file:///android_asset/bus3.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+    }    ,
+	{
+      "title":"Scania R620 Edisi Racing",
+      "image":"https://archive.org/download/fuso-c-31/Scania%20R620%20Edisi%20Racing/ss.jpg",
+      "link_mods":"https://archive.org/download/fuso-c-31/Scania%20R620%20Edisi%20Racing/Scania%20R620%20Edisi%20Racing%20by%20JF%20Channel.bussidmod",
       "link_livery":""
-    }
-  ,
-    {
-      "title":"Truck UD Quester Bak Muat Kayu",
-      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
-    } ,
-    {
-      "title":"Jaguar XE SV Project 8",
-      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":""
-    }
+    } ,	{
+      "title":"UD Kuzer Box",
+      "image":"https://archive.org/download/fuso-c-31/UD%20Kuzer%20Box/ss.webp",
+      "link_mods":"https://archive.org/download/fuso-c-31/UD%20Kuzer%20Box/UD%20KUZER%20BOX%20ad%20iskn.bussidmod",
+      "link_livery":"https://archive.org/download/fuso-c-31/UD%20Kuzer%20Box/Grab%20Deliveree%20UD%20Kuzer.png"
+    } 
   ]
 }
