@@ -1,7 +1,7 @@
  { "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
@@ -24,9 +24,9 @@
  "DATA":
   [
     {
-      "title":"SR2 HD Transporter S-Series - KYM",
+      "title":"Harapan Jaya",
       "image":"file:///android_asset/bus.jpeg",
-      "link_mods":"",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
       "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
     },
     {
@@ -47,5 +47,12 @@
       "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
       "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
       "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
-    } 
+    } ,
+    {
+      "title":"Jaguar XE SV Project 8",
+      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+    }
+  ]
 }
