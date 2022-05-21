@@ -24,6 +24,24 @@
  "DATA":
   [
       {
+      "title":"BMW R1200 GS",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/BMW%20R1200%20GS/ss.jpg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/BMW%20R1200%20GS/BMW%20R1200%20GS%20by%20MK3D%20Mods%20cvt%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    } ,
+	    {
+      "title":"KTM 1290 Super Duke",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/KTM%201290%20Super%20Duke/Photo_220330041148-758x426.jpeg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/KTM%201290%20Super%20Duke/KTM%201290%20Super%20Duke%20.bussidmod",
+      "link_livery":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/KTM%201290%20Super%20Duke/Template%20KTM%20MAH%20Channel.png"
+    } ,
+	    {
+      "title":"Yamaha YZR Valentino Rossi 46",
+      "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/Yamaha%20YZR%20Valentino%20Rossi%2046/MotoGP-Valentino-Rossi-by-MAH-Channel.jpg",
+      "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/KTM%201290%20Super%20Duke/Yamaha%20YZR%20Valentino%20Rossi%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    } ,
+      {
       "title":"KTM Duke 150",
       "image":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20KTM%20DUKE%20150%20by%20AzuMods.jpeg",
       "link_mods":"https://archive.org/download/honda-pcx-150cc-thailook-style-by-mah-channel/MOD%20KTM%20DUKE%20150%20by%20AzuMods.bussidmod",
