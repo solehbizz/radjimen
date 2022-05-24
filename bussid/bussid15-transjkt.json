@@ -23,6 +23,31 @@
   ],
  "DATA":
   [
+      {
+      "title":"All New Tourista",
+      "image":"https://archive.org/download/bus-transjakarta/All%20New%20Tourista/Photo_200211072505.jpeg",
+      "link_mods":"https://archive.org/download/bus-transjakarta/All%20New%20Tourista/All%20New%20Tourista%20by%20ZTOM%20%28sunscreen%29.bussidvehicle",
+      "link_livery":"https://archive.org/download/bus-transjakarta/All%20New%20Tourista/Transjakarta.png"
+    } ,
+    {
+      "title":"Bimasena SDD",
+      "image":"https://archive.org/download/bus-transjakarta/Bimasena%20SDD/Screenshot_2019-03-14-20-28-21-267_com.maleo.bussimulatorid.png",
+      "link_mods":"https://archive.org/download/bus-transjakarta/Bimasena%20SDD/JB3%2B%20SDD%20Anim%20Pintu%2BBagasi%20%5BBussidgame.com%5D.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"TransJakarta Gandeng",
+      "image":"https://archive.org/download/bus-transjakarta/TransJakarta%20Gandeng/MOD-BUSSID-Bus-Transjakarta-Gandeng.webp",
+      "link_mods":"https://archive.org/download/bus-transjakarta/TransJakarta%20Gandeng/Bus%20Transjakarta%20Gandeng%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Transjakarta",
+      "image":"https://archive.org/download/bus-transjakarta/Transjakarta/MOD-BUSSID-Bus-Transjakarta.webp",
+      "link_mods":"https://archive.org/download/bus-transjakarta/Transjakarta/Transjakarta%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    } ,
+
     {
       "title":"Harapan Jaya",
       "image":"file:///android_asset/bus.jpeg",
