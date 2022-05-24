@@ -23,6 +23,55 @@
   ],
  "DATA":
   [
+      {
+      "title":"Damkar Canter",
+      "image":"https://archive.org/download/pemadam/Damkar%20Canter/mod-bussid-truck-damkar-canter.jpg",
+      "link_mods":"https://archive.org/download/pemadam/Damkar%20Canter/CANTER%20DAMKAR%20RESCUE.bussidmod",
+      "link_livery":""
+    } ,
+	    {
+      "title":"Damkar Hino 500",
+      "image":"https://archive.org/download/pemadam/Damkar%20Hino%20500/mod-bussid-truck-damkar-hino-500.jpeg",
+      "link_mods":"https://archive.org/download/pemadam/Damkar%20Hino%20500/damkar%20hino.bussidmod",
+      "link_livery":""
+    } ,
+	    {
+      "title":"Damkar Hydramax Aerv",
+      "image":"https://archive.org/download/pemadam/Damkar%20Hydramax%20Aerv/Hydramax%20AERV%20MAH%20Channel_2.bussidmod",
+      "link_mods":"https://archive.org/download/pemadam/Damkar%20Hydramax%20Aerv/mod-bussid-truck-damkar-hydramax-aerv.jpg",
+      "link_livery":""
+    } ,
+	    {
+      "title":"Damkar Mercedes Atego",
+      "image":"https://archive.org/download/pemadam/Damkar%20Mercedes%20Atego/mod-bussid-truck-damkar-mercedes-atego.jpg",
+      "link_mods":"https://archive.org/download/pemadam/Damkar%20Mercedes%20Atego/Mercedes%20Atego%20Damkar%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    } ,
+	    {
+      "title":"Damkar Scania P360",
+      "image":"https://archive.org/download/pemadam/Damkar%20Scania%20P360/ss.jpg",
+      "link_mods":"https://archive.org/download/pemadam/Damkar%20Scania%20P360/Scania%20P360%20DamKar%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    } ,
+	    {
+      "title":"Damkar Tangga",
+      "image":"https://archive.org/download/pemadam/Damkar%20Tangga/IMG_20190604_073728.jpg",
+      "link_mods":"https://archive.org/download/pemadam/Damkar%20Tangga/FIRE%5B1%5D.bussidvehicle",
+      "link_livery":""
+    } ,
+	    {
+      "title":"Damkar UD Quester",
+      "image":"https://archive.org/download/pemadam/Damkar%20UD%20Quester/mod-bussid-truck-damkar-ud-quester.jpg",
+      "link_mods":"https://archive.org/download/pemadam/Damkar%20UD%20Quester/UDQUESTERDAMKAR.bussidmod",
+      "link_livery":""
+    } ,
+	    {
+      "title":"Iveco Bombeiros",
+      "image":"https://archive.org/download/pemadam/Pemadam%20Kebakaran%20Iveco%20Bombeiros/MOD-BUSSID-Truck-Pemadam-Kebakaran-Iveco-Bombeiros.webp",
+      "link_mods":"https://archive.org/download/pemadam/Pemadam%20Kebakaran%20Iveco%20Bombeiros/MOD%20BUSSID%20Truck%20Pemadam%20Kebakaran%20Iveco%20Bombeiros%20cvt%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    } ,
+	    
     {
       "title":"Harapan Jaya",
       "image":"file:///android_asset/bus.jpeg",
