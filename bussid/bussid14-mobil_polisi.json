@@ -23,6 +23,12 @@
   ],
  "DATA":
   [
+      {
+      "title":"Patwal Avanza",
+      "image":"https://archive.org/download/l200_20220524/avanza.jpg",
+      "link_mods":"https://archive.org/download/l200_20220524/avanza/avanza.bussidmod",
+      "link_livery":"https://archive.org/download/l200_20220524/avanza/livery%20polisi%20avanza.jpg"
+    } ,
    {
       "title":"Lamborghini",
       "image":"https://archive.org/download/buss4mobil-pack1/Mod%20BUSSID%20Lamborghini.jpg",
