@@ -2,13 +2,13 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_banner": "ca-app-pub-5436395797043027/3902183389",
+      "main_ads_intertitial":"ca-app-pub-5436395797043027/1276020048",
+      "main_native_for_admob_applovin":"ca-app-pub-5436395797043027/1276020048",
       "backup_native_for_admob_applovin":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
+      "interval_intertitial": 2,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -23,7 +23,55 @@
   ],
  "DATA":
   [
-      {
+           {
+      "title":"Polisi Abu Abu Kuning",
+      "image":"https://archive.org/download/l200_20220524/Abu-kuning/maxresdefault.jpg",
+      "link_mods":"https://archive.org/download/l200_20220524/Abu-kuning/Mod%20Mobil%20Polisi%20Abu-kuning.bussidmod",
+      "link_livery":"https://archive.org/download/l200_20220524/Abu-kuning/Mod%20Mobil%20Polisi%20Abu-kuning.png"
+    } ,    
+	{
+      "title":"LAMBO PATAWAL PUTIH HITAM",
+      "image":"https://archive.org/download/l200_20220524/LAMBORGHINI%20PATWAL/putih%20hitam.jpg",
+      "link_mods":"https://archive.org/download/l200_20220524/LAMBORGHINI%20PATWAL/Lamborghini%2BRafii%2BAhmad%2Bv.2%2BCvt%2BBy%2BEAP.bussidvehicle",
+      "link_livery":"https://archive.org/download/l200_20220524/LAMBORGHINI%20PATWAL/LAMBO%20PATAWAL%20PUTIH%20HITAM.png"
+    } ,    
+	{
+      "title":"LAMBO PATWAL PUTIH BIRU",
+      "image":"https://archive.org/download/l200_20220524/LAMBORGHINI%20PATWAL/LAMBO%20PATWAL%20PUTIH%20BIRU.png",
+      "link_mods":"https://archive.org/download/l200_20220524/LAMBORGHINI%20PATWAL/Lamborghini%2BRafii%2BAhmad%2Bv.2%2BCvt%2BBy%2BEAP.bussidvehicle",
+      "link_livery":"https://archive.org/download/l200_20220524/LAMBORGHINI%20PATWAL/biru%20putih.jpg"
+    } ,    
+	{
+      "title":"Polisi - Strada L200",
+      "image":"https://awsimages.detik.net.id/content/2014/03/18/10/fotopolisimeupeppep.jpg",
+      "link_mods":"https://archive.org/download/l200_20220524/l200/l200.bussidmod",
+      "link_livery":"https://archive.org/download/l200_20220524/l200/1588778140420.png"
+    } ,    
+	{
+      "title":"Patwal Jazz",
+      "image":"https://i.ytimg.com/vi/uMLIbNXSMHY/hqdefault.jpg",
+      "link_mods":"https://archive.org/download/l200_20220524/jazz/HONDAJZZMOD.bussidvehicle",
+      "link_livery":"https://archive.org/download/l200_20220524/jazz/polisi.png"
+    } ,    
+	{
+      "title":"Polisi Mazda 6",
+      "image":"https://archive.org/download/l200_20220524/mazda%206/Mod%20Mobil%20Polisi%20Biru%20Putih.jpg",
+      "link_mods":"https://archive.org/download/l200_20220524/mazda%206/Mobil%20Polisi%20Mazda%206%20V1%20Speed%20Kencang%20by%20AzuMods.bussidmod",
+      "link_livery":""
+    } ,    
+	{
+      "title":"Polisi - Pajero",
+      "image":"https://i.ytimg.com/vi/_y50H_-4zgU/hqdefault.jpg",
+      "link_mods":"https://archive.org/download/l200_20220524/pajero/Pajero2017.bussidmod",
+      "link_livery":"https://archive.org/download/l200_20220524/pajero/Template%20pajero%20polisi.jpg"
+    } ,    
+	{
+      "title":"Polisi - Rush",
+      "image":"https://i.ytimg.com/vi/4RUQiW52j9Q/hqdefault.jpg",
+      "link_mods":"https://archive.org/download/l200_20220524/rush/Toyota%20Rush%20New%20.bussidmod",
+      "link_livery":"https://archive.org/download/l200_20220524/rush/Livery%20Patwal%20by%20GAG%20productions%20reborn-picsay.png"
+    } ,  
+	  {
       "title":"Patwal Avanza",
       "image":"https://archive.org/download/l200_20220524/avanza.jpg",
       "link_mods":"https://archive.org/download/l200_20220524/avanza/avanza.bussidmod",
