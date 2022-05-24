@@ -1,17 +1,17 @@
 {
   "Ads": [
     {
-      "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads":"",
-      "main_ads_banner": "ada192e4b67c2aa8",
-      "main_ads_intertitial":"0ee424e4f1ceda11",
-      "main_ads_reward":"0e0ff1518b2b3c03",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_reward":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "backup_ads_reward":"",
-      "native_for_admob_applovin":"951955475c389e0b",
-      "interval_intertitial": 2,
-      "initialize_sdk":"paLqBkgscOmgR5GSGt53q6mUrUx0FuWtmZcyHm1RpuSdRTudXs1mPlS6f6MbWq5H7L6vRJ_J2NaM7k1wlM16q4",
+      "native_for_admob_applovin":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -26,19 +26,9 @@
   "More":
   [
     {
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"MOD Bussid",
+      "image":"https://play-lh.googleusercontent.com/YoOeTFAstIueyHBUjomUZwyTyN6HGwGcJq6xZB6Pw9rOcQ9wOE_bNagDfm-KVxTPXQw=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.bussid.modbussimulatorid_SR2_XHD_Prime"
     }
   ],
 
