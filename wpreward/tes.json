@@ -9,7 +9,7 @@
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "backup_ads_reward":"",
-      "native_for_admob_applovin":"",
+      "native_for_admob_applovin":"ca-app-pub-3940256099942544/1044960115",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -20,7 +20,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "coin_reward": 1000
+      "coin_reward": 500
     }
   ],
   "More":
