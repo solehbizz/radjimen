@@ -5,7 +5,7 @@
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_reward":"",
+      "main_ads_reward":"ca-app-pub-3940256099942544/5224354917",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "backup_ads_reward":"",
@@ -91,7 +91,7 @@
       "name_category": "Mountain",
       "title":"Empty Highway",
       "image":"https://images.pexels.com/photos/1955134/pexels-photo-1955134.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-      "coin":200
+      "coin":100
     },
     {
       "id":6,
