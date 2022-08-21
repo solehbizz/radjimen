@@ -8,7 +8,7 @@
       "backup_native_for_admob_applovin":"",
       "backup_ads_banner":"8483330",
       "backup_ads_intertitial":"8483328",
-      "interval_intertitial": 2,
+      "interval_intertitial": 10,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"1509dd5a9",
       "high_paying_keyword_1": "Insurance",
